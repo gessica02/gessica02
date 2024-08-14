@@ -13,6 +13,8 @@
   <p> :computer: Durante essa jornada, descobri um grande interesse na programação, desenvolvendo habilidades em HTML, CSS e Javascript.</p>
   <p> 🤖 Atualmente, sou graduanda em Engenharia Mecatrônica e estou me aventurando na linguagem C.</p> 
 
+  <h2 dir="auto"></h2>
+
   ### 🖥️ Tecnologias e Ferramentas:
   <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-plain-wordmark.svg" width="40" height="40"/>
@@ -26,10 +28,10 @@
 
   <h2 dir="auto"></h2>
 
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <a href="https://github.com/gessica02/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=gessica02&show_icons=true&theme=tokyonight" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
+</a> 
+<a href="https://github.com/gessica02/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gessica02&theme=tokyonight&layout=compact" />
 </a>
           
