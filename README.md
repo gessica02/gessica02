@@ -28,10 +28,10 @@
 
   <h2 dir="auto"></h2>
 
-  <p><a href="https://github.com/gessica02/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=gessica02&show_icons=true&theme=tokyonight" />
+<a href="https://github.com/gessica02/github-readme-stats">
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=gessica02&show_icons=true&theme=tokyonight" />
 </a> 
 <a href="https://github.com/gessica02/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gessica02&theme=tokyonight&layout=compact&langs_count=8&card_width=320" />
-</a></p>
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gessica02&theme=tokyonight&layout=compact&langs_count=8&card_width=320" />
+</a>
           
