@@ -29,8 +29,8 @@
   <h2 dir="auto"></h2>
 <p align="center" dir="auto">
 <a href="https://github.com/gessica02/github-readme-stats">
-<img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=gessica02&show_icons=true&theme=tokyonight" />
-<img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gessica02&theme=tokyonight&layout=compact&langs_count=8&card_width=320" />
+<img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=gessica02&show_icons=true&theme=tokyonight" style="max-width: 100%";/>
+<img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gessica02&theme=tokyonight&layout=compact&langs_count=8&card_width=320" style="max-width: 100%";/>
 </a> 
 </p>
           
